@@ -1,0 +1,6 @@
+discord
+pyNaCl
+pymongo
+numpy
+dnspython
+praw

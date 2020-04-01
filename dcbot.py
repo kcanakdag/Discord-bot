@@ -29,4 +29,4 @@ for filename in os.listdir('./cogs'):
 
 
 
-client.run('enteryourtokenhere')
+client.run('Enter bot token')
